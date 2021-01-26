@@ -12,16 +12,17 @@
 - C++
     - [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
     - [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - basics
-    - pointers
-    - functions
-    - references
-    - templates
-    - compilation
-    - scope & linkage
-    - namespaces
-    - OOP
-    - STL
+    - [basics](https://www.tutorialspoint.com/cplusplus/cpp_basic_syntax.htm)
+    - [pointers](https://www.cprogramming.com/tutorial/lesson6.html)
+    - [class and object](https://www.cprogramming.com/tutorial/lesson12.html)
+    - [functions](https://www.cprogramming.com/tutorial/lesson4.html)
+    - [references](https://www.geeksforgeeks.org/references-in-c/)
+    - [templates](https://www.cprogramming.com/tutorial/templates.html)
+    - [compilation](https://www.youtube.com/watch?v=ZTu0kf-7h08)
+    - [scope & linkage](https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/)
+    - [namespaces](https://www.tutorialspoint.com/cplusplus/cpp_namespaces.htm)
+    - [OOP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+    - [STL](https://www.hackerearth.com/practice/notes/standard-template-library/)
     - [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
     - [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
     - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
@@ -40,12 +41,15 @@
     - [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
     - [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+    - [Coding Interview Essentials](https://github.com/ajinkyal121/coding-interview-university/blob/master/extras/cheat%20sheets/Coding%20Interview%20Python%20Language%20Essentials.pdf)
+    - [Data Structures And Algorithms in Python](https://www.youtube.com/watch?v=kQDxmjfkIKY)
 - Java
     - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
     - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
     - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
     - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
     - [Effective Java 3rd Edition](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH)
+    - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
 - Go
     - [The Go programming Language](https://golang.org/)
     - [The Go programming Language (book)](http://www.gopl.io/)
@@ -58,12 +62,16 @@
 - HTML
     - [Quick HTML Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
     - [HTML Crash Course for Beginners (1 hr)](https://www.youtube.com/watch?v=UB1O30fR-EE)
+    - [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 - CSS
     - [Quick CSS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
     - [CSS Crash Course for absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+    - [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 - Javascript
     - [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
     - [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa)
+    - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+    - [Javascript Algorithms With Explanations](https://github.com/trekhleb/javascript-algorithms)
 - Other Language 1
 - Other Language 2
 - etc
